@@ -3,14 +3,6 @@
 <p align="center">
   <b>Data Science & AI Engineer · Building production AI systems · NSUT '26</b>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/parminder-singh-2468a4214/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:parminder.ps@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   
 </p>
 
